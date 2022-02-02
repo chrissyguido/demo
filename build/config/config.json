@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc8f9e2621d2B3926fBd02f800e9e591881c02b3c",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc8f9e2621d2B3926fBd02f800e9e591881c02b3c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Women Empowering Women- The Starline Project",
+  "SYMBOL": "STAR",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/women-empowering-women-the-starline-project",
+  "SHOW_BACKGROUND": true
+}
